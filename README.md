@@ -1,2 +1,2 @@
 # medusa
-Old project page
+Old project page; is redirected to [https://medusa.lukas-snoek.com](https://medusa.lukas.snoek.com).
